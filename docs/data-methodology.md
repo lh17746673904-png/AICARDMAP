@@ -1,6 +1,6 @@
-# Data Methodology
+﻿# Data Methodology
 
-AI Card Map organizes public business information into a value-chain map.
+AICARDMAP organizes public business information into a value-chain map.
 
 ## Source Types
 
@@ -28,7 +28,7 @@ Company and link relationships may be labeled by confidence level.
 
 Supply-chain claims are easy to overstate. A company may have the right capability but not a confirmed customer relationship.
 
-AI Card Map separates business position from customer verification wherever possible.
+AICARDMAP separates business position from customer verification wherever possible.
 
 ## Research Boundary
 

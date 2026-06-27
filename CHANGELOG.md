@@ -1,8 +1,8 @@
-# Changelog
+﻿# Changelog
 
 ## 2026-06
 
-- Launched the overseas version of AI Card Map.
+- Launched the overseas version of AICARDMAP.
 - Added bilingual and multilingual interface support.
 - Built the link library for AI hardware infrastructure.
 - Added company index coverage across China, the U.S., Europe, Japan, Taiwan, and Korea.

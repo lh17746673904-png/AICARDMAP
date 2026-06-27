@@ -1,6 +1,6 @@
-# AI Card Map
+﻿# AICARDMAP
 
-AI Card Map is a supply-chain intelligence map for AI hardware infrastructure.
+AICARDMAP is a supply-chain intelligence map for AI hardware infrastructure.
 
 It does not chase hype. It tracks the links in the AI hardware value chain that are becoming tighter, more expensive, or more strategically important.
 
@@ -28,7 +28,7 @@ Contact: [yuanqitanchang@163.com](mailto:yuanqitanchang@163.com)
 
 ## Public Repository Scope
 
-This repository is a public product showcase for AI Card Map.
+This repository is a public product showcase for AICARDMAP.
 
 The source code, backend services, account system, data pipeline, crawler logic, company database, paid content, server configuration, and API credentials are not open sourced.
 
@@ -56,11 +56,11 @@ aicardmap-showcase/
 
 ## Positioning
 
-AI Card Map is built for people who want to understand AI infrastructure from the value chain, not from short-term market narratives.
+AICARDMAP is built for people who want to understand AI infrastructure from the value chain, not from short-term market narratives.
 
 It is intended for research, education, and public information organization only.
 
-AI Card Map does not provide investment advice, financial advice, securities recommendations, trading signals, portfolio management, brokerage services, or personalized investment guidance.
+AICARDMAP does not provide investment advice, financial advice, securities recommendations, trading signals, portfolio management, brokerage services, or personalized investment guidance.
 
 ## License
 

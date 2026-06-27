@@ -1,6 +1,6 @@
-# Product Overview
+﻿# Product Overview
 
-AI Card Map is a public-information research product for AI hardware infrastructure.
+AICARDMAP is a public-information research product for AI hardware infrastructure.
 
 The core idea is simple: AI infrastructure is not one company or one product. It is a chain of compute chips, memory, networking, advanced packaging, manufacturing equipment, testing, materials, power, cooling, and deployment systems.
 
@@ -38,4 +38,4 @@ Uses text and diagrams to help users understand AI infrastructure without waitin
 
 ## What It Is Not
 
-AI Card Map is not an investment advisory service. It does not give buy, sell, or hold recommendations.
+AICARDMAP is not an investment advisory service. It does not give buy, sell, or hold recommendations.

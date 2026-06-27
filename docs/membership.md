@@ -1,6 +1,6 @@
-# Membership
+﻿# Membership
 
-AI Card Map includes free and member-only areas.
+AICARDMAP includes free and member-only areas.
 
 ## Free Experience
 
