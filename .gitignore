@@ -1,0 +1,28 @@
+# Keep this repository showcase-only.
+# Do not commit production source code, backend code, data, secrets, or deployment artifacts.
+
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.db
+*.tar.gz
+*.zip
+
+backend/
+data/
+node_modules/
+dist/
+build/
+__pycache__/
+
+app.js
+auth.js
+admin.js
+radar.js
+server.py
+collector.py
+*.log

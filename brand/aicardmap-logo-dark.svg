@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">AI 卡口地图 dark logo</title>
+  <desc id="desc">适用于深色背景的 AI 卡口地图横版品牌标识。</desc>
+  <defs>
+    <style>
+      .word-cn { font-family: "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif; font-weight: 800; letter-spacing: 0; }
+      .word-en { font-family: "Roboto Mono", "SFMono-Regular", Consolas, monospace; font-weight: 700; letter-spacing: .04em; }
+    </style>
+  </defs>
+  <rect width="760" height="180" fill="none"/>
+  <g transform="translate(30 30)">
+    <rect width="120" height="120" rx="16" fill="#D9F45B"/>
+    <path d="M32 32H48V52M32 88H48V68M88 32H72V52M88 88H72V68" fill="none" stroke="#101711" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="50" y="50" width="20" height="20" rx="5" fill="#101711"/>
+    <path d="M56 44V34M64 44V34M56 86V76M64 86V76" fill="none" stroke="#101711" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="32" cy="32" r="7.5" fill="#101711"/>
+    <circle cx="32" cy="88" r="7.5" fill="#101711"/>
+    <circle cx="88" cy="32" r="7.5" fill="#101711"/>
+    <circle cx="88" cy="88" r="7.5" fill="#101711"/>
+    <circle cx="60" cy="60" r="5" fill="#D9F45B"/>
+  </g>
+  <g transform="translate(178 48)">
+    <text class="word-cn" x="0" y="45" font-size="44" fill="#F7FBF4">AI 卡口地图</text>
+    <text class="word-en" x="2" y="82" font-size="16" fill="#D9F45B">AI BOTTLENECK MAP</text>
+  </g>
+</svg>
